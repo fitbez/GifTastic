@@ -1,20 +1,20 @@
 body {
 	background-color:white;
+	font-family: 'Roboto', sans-serif;
 }
 
 .jumbotron.col-lg-12.col-md-12.col-sm-12 {
-  background-image: url("https://www.youtube.com/watch?v=qEuV82GqQnE");
-	/*background-color: silver;*/
 	border: 2px solid white;
 	margin-bottom: 0px;
+	font-family: 'Roboto', sans-serif;
 }
 
 /*div#Masthead {
-	background: url("../images/group_cover.jpg");*/
+background: url("../images/group_cover.jpg");*/
 }
 
 h1.text-center {
-  font-family:
+
 	color: #ffffff;
 	font-weight: bolder;
 	text-shadow:
@@ -32,41 +32,42 @@ div#buttons-view {
 
 
 div#gif-display {
-	background: url("../images/marvel_team.jpg");
 	border: 2px solid white;
 	margin-top: 20px;
 	margin-bottom: 40px;
 }
+
 .item {
 	background: rgba(255, 255, 255, 0.5);
 	margin: auto;
-    width: 100%;
-    padding-bottom: 20px;
+	width: 100%;
+	padding-bottom: 20px;
 
 }
 
 img.gif-image {
-    display: block;
-    margin: auto;
-    width: 50%;
+	display: block;
+	margin: auto;
+	width: 50%;
 }
 
 p.rating-info {
 	font-weight: bolder;
 	font-size: 24px;
 	margin-left: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 
 .btn-info {
-    color: #fff;
-    background-color: #17a2b8;
-    border-color: #46b8da;
-    margin: 2px;
+	color: #fff;
+	background-color: #17a2b8;
+	border-color: #46b8da;
+	margin: 2px;
 }
 
 .btn {
-    font-size: 20px;
+	font-size: 20px;
 }
 input#gify-input {
-    margin-top: 20px;
+	margin-top: 20px;
 }

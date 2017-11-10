@@ -75,6 +75,7 @@
 
        // Calling renderButtons which handles the processing of our gif array
        renderButtons();
+
      }
      });
        //swapGif changes the state of my gif animation when i click on the image
